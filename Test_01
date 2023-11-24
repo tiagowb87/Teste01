@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <Meta charset="utf-8">
+	<title>TWB Teste</title>
+	
+	<!--CSS interna-->
+    <style type="text/css">
+        .páragrafo_1{
+	        font-family: Arial, sans-serif;
+		    font-size:18px;
+		    font-style:italic;
+		    font-weight:bold;
+}
+	    .páragrafo_2{
+	        font-family: "Time New Roman", serif;
+		    font-size:16px;
+		    font-style:normal;
+		    font-weight:600;
+}
+        .páragrafo_3{
+	        font-family: "Andale Mono", monospace;
+		    font-size:14px;
+		    font-style:oblique;
+		    font-weight:lighter;
+}
+
+        .páragrafo_4{
+	        font-family: "summer_beach_8", barbie;
+		    font-size:100px;
+		    font-style:normal;
+		    font-weight:lighter;
+}
+    </style>
+	
+</head>
+
+<body> 
+	
+<h1 style="border: 2px solid black;"><link><i>
+https://github.com/tiagowb87</link></i></h1>
+<p><i>Olá meu nome é Tiago e esse é meu primeiro teste...</i></p>
+
+<p><h1 style="background-color:Tomato; color:white">
+Você pode me seguir no link acima</h1>
+
+<h1 style="background-color:orange; color:white">
+E mim ajudar a criar novos projetos!:)</h1></p>
+
+<p class="páragrafo_1">
+"A educação é uma arma poderosa que você pode usar para mudar o mundo". 
+Essa citação nos leva a refletir sobre a importância do estudo e como ele pode 
+impactar positivamente a sociedade. Estudar é a coisa certa a fazer, pois através do 
+conhecimento adquirido, podemos enfrentar os desafios da vida, contribuir para o 
+desenvolvimento pessoal e coletivo, e buscar soluções para os problemas que enfrentamos.</strong>
+</p>
+
+<p class="páragrafo_4">
+"Obrigado a todos que me seguirem no GITHUB" :)</P>
+</body>
+</html>
